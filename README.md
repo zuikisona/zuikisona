@@ -1,6 +1,11 @@
 ## zeynep online!
 
 hii! I'm an editor, artist and a beginner in cybersecurity, super interested in malware analysis and reverse engineering! ^-^
+
+there is nothing much here _yet_!! I'm still learning :3
+in the meantime, check out [cyber valkyries](https://cybervalkyries.org/), an organization I founded to help girls find a safe space in cybersecurity and hang out peacefully without being called nasty things!
+
+love u, bye now <3
 <!--
 **zuikisona/zuikisona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
