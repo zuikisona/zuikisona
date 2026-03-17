@@ -1,6 +1,6 @@
 ## zeynep online!
 
-hii! I'm an editor, artist, and a beginner in cybersecurity, super interested in malware analysis and reverse engineering! ^-^
+hii! I'm an editor, artist, and a beginner in cybersecurity, super interested in <ins>malware analysis</ins> and <ins>reverse engineering!</ins> ^-^
 
 - there is nothing much here _yet_, as I'm still learning :3
 - in the meantime, check out [cyber valkyries](https://cybervalkyries.org/), a non-toxic community I founded to empower girls in cybersecurity!!
