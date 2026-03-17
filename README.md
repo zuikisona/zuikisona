@@ -1,5 +1,6 @@
-## Hi there 👋
+## zeynep online!
 
+hii! I'm an editor, artist and a beginner in cybersecurity, super interested in malware analysis and reverse engineering! ^-^
 <!--
 **zuikisona/zuikisona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
